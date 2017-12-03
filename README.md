@@ -1,7 +1,7 @@
 # Project #1 :  T Venkataramana
 
 # Members
-1. ![Thirumurthy]({{site.baseurl}}/https://github.com/thirumurthy.png)
+1. ![Thirumurthy](https://github.com/thirumurthy.png)
 2. Kumaravel
 3. Karthik
 
